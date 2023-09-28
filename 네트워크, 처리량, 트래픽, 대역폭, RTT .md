@@ -37,6 +37,6 @@ RTT(Round Trip Time : 왕복 지연시간)는 신호를 전송하고 해당 신�
 시간을 더한 값이자 어떤 메시지가 두 장치 사이를 왕복하는 데 걸린 시간입니다.
 
 ```
-ping google.com
+ ping google.com
 ```
 ![](https://velog.velcdn.com/images/cjllee/post/422c7359-b9b7-459e-a295-19a7736e063c/image.png)
